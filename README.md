@@ -1,5 +1,3 @@
-Here is a tailored, ready-to-go GitHub `README.md` template based on your active tech stack and projects. You can copy and paste this directly into your profile repository!
-
 ```markdown
 ### 👋 Hi, I’m @eamocha
 
