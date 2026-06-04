@@ -4,7 +4,7 @@ I am a Full-Stack Software Engineer and Tech Lead passionate about building impa
 
 ---
 
-### 👀 I’m interested in ...
+###  I’m interested in ...
 * **Full-Stack Web & Mobile Development:** Crafting high-performance applications with React, React Native, CodeIgniter (PHP), and Firebase.
 * **LegalTech Automation:** Building systems like *Sheria360* to streamline case management, document versioning, and automated clause extraction.
 * **AI Orchestration & RAG:** Implementing Retrieval-Augmented Generation using tools like n8n, Qdrant, and LLMs to build intelligent virtual assistants.
