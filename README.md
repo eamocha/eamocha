@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @eamocha
+###  Hi, I’m @eamocha
 
 I am a Full-Stack Software Engineer and Tech Lead passionate about building impactful digital solutions, optimizing web architecture, and exploring the intersection of LegalTech and AI.
 
@@ -12,20 +12,20 @@ I am a Full-Stack Software Engineer and Tech Lead passionate about building impa
 
 ---
 
-### 🌱 I’m currently learning ...
+###  I’m currently learning ...
 * Advanced AI agent workflows and optimizing vector database indexing for complex document structures.
 * Deep-diving into mobile app state management and offline-first capabilities for social utility platforms.
 
 ---
 
-### 💞️ I’m looking to collaborate on ...
+###  I’m looking to collaborate on ...
 * **LegalTech Initiatives:** Open-source tools or projects aimed at modernizing legal operations and document automation.
 * **Emergency & Community Services:** Tech-for-good platforms focused on logistics, emergency response (like ambulance dispatch systems), or community welfare management.
 * **API & Protocol Integrations:** Complex enterprise integrations, document management systems, and workflow automation.
 
 ---
 
-### 📫 How to reach me ...
+###  How to reach me ...
 * **GitHub:** Leave an issue or open a discussion right here!
 
 ---
